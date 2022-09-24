@@ -1,13 +1,12 @@
 {
-  "user": [
+  "cart": [
     {
      "id":1,
-     "brand":"Suzuki",
+     "name":"res",
      "gair":"manual",
-     "year":2011,
-     "kms":120322,
-     "desc":"Suzuki car manual 6 speed",
-     "price":6 
+     "price_starts_from":590,
+     "rating":2,
+     "type":"Suzuki car manual 6 speed",
     },
     {
     }
